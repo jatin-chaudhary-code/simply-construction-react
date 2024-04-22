@@ -27,10 +27,12 @@ Simply Construction is a frontend project showcasing the services, blogs, contac
    git clone <repository_url>
 
 2. Install dependencies:
+   ```bash
    cd simply-construction  
    npm install
    
-3. Start the development server:
+4. Start the development server:
+   ```bash
    npm run dev
 
 The website will be live at http://localhost:5173.
