@@ -1,0 +1,138 @@
+{
+  "blogs": [
+    {
+      "img": "images/blog/blog-img/1.jpg",
+      "author": "Kelvin",
+      "date": "20 July",
+      "comments": 20,
+      "id": "fb92"
+    },
+    {
+      "img": "images/blog/blog-img/2.jpg",
+      "author": "Kelvin",
+      "date": "20 July",
+      "comments": 20,
+      "id": "c5b5"
+    },
+    {
+      "img": "images/blog/blog-img/3.jpg",
+      "author": "Kelvin",
+      "date": "20 July",
+      "comments": 20,
+      "id": "c8ee"
+    },
+    {
+      "img": "images/blog/blog-img/4.jpg",
+      "author": "Kelvin",
+      "date": "20 July",
+      "comments": 20,
+      "id": "4913"
+    },
+    {
+      "img": "images/blog/blog-img/5.jpg",
+      "author": "Kelvin",
+      "date": "20 July",
+      "comments": 20,
+      "id": "05a8"
+    },
+    {
+      "img": "images/blog/blog-img/6.jpg",
+      "author": "Kelvin",
+      "date": "20 July",
+      "comments": 20,
+      "id": "11f0"
+    },
+    {
+      "img": "images/blog/blog-img/7.jpg",
+      "author": "Kelvin",
+      "date": "20 July",
+      "comments": 20,
+      "id": "1314"
+    },
+    {
+      "img": "images/blog/blog-img/8.jpg",
+      "author": "Kelvin",
+      "date": "20 July",
+      "comments": 20,
+      "id": "0795"
+    },
+    {
+      "img": "images/blog/blog-img/9.jpg",
+      "author": "Kelvin",
+      "date": "20 July",
+      "comments": 20,
+      "id": "ee89"
+    }
+  ],
+  "services": [
+    {
+      "cardImg": "images/service/1.jpg",
+      "title": "CONSTRUCTION",
+      "id": "f0ee"
+    },
+    {
+      "cardImg": "images/service/2.jpg",
+      "title": "RENOVATION",
+      "id": "c54a"
+    },
+    {
+      "cardImg": "images/service/3.jpg",
+      "title": "ARCHITECTURE",
+      "id": "0b7a"
+    },
+    {
+      "cardImg": "images/service/4.jpg",
+      "title": "CONCRETE SUPPLY",
+      "id": "3115"
+    },
+    {
+      "cardImg": "images/service/5.jpg",
+      "title": "LAMINATE FLOORING",
+      "id": "cc9b"
+    },
+    {
+      "cardImg": "images/service/6.jpg",
+      "title": "CONSULTING",
+      "id": "52ca"
+    }
+  ],
+  "team": [
+    {
+      "name": "andrew simons",
+      "post": "chief electrican",
+      "img": "images/team/1.jpg",
+      "id": "68f6"
+    },
+    {
+      "name": "STAWART SMITH",
+      "post": "chief electrican",
+      "img": "images/team/2.jpg",
+      "id": "fba5"
+    },
+    {
+      "name": "KALVIN MOMEN",
+      "post": "chief electrican",
+      "img": "images/team/3.jpg",
+      "id": "cc4f"
+    },
+    {
+      "name": "MARK TAYLOR",
+      "post": "chief electrican",
+      "img": "images/team/4.jpg",
+      "id": "6eb4"
+    }
+  ],
+  "test": [
+    {
+      "firstName": "jatin",
+      "id": "3f5f"
+    },
+    {
+      "firstName": "tushar",
+      "id": "af47"
+    },
+    {
+      "id": "8dcf"
+    }
+  ]
+}
